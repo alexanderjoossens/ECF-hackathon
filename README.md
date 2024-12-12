@@ -1,4 +1,4 @@
-# This is a clean flask app, made on June 4 2024, and based on project movie recommender.
+# This is a flask app, made on November 6 2024 for the ECF hackathon, and based on project movie recommender.
 
 Install instructions are similar as original ones (referenced below).
 
